@@ -1,0 +1,8 @@
+
+{
+  "name": "kanbanbackend",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-appwrite": "^17.2.0"
+  }
+}
